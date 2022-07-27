@@ -1,10 +1,10 @@
-# simple-album
+# simple-picture-gallery
 
 ## How to use
 * Clone the repository
 * Edit "config.php", add a password and a title for your album. The title is used as the site title and headline in the gallery.
 * Create folders for albums in the "gallery" directory
-  * Use following naming scheme: "NUMBER---TITLE--SUBTITLE"
+  * Use following naming scheme: "NUMBER---TITLE---SUBTITLE"
   * e.g.: "5---My funny Album---Here is all the fun"
   * or: "2022-03-12---The not so funny album---Here is the serious stuff"
   * The first part is invisible, the other parts are used to label the albums in the gallery.
